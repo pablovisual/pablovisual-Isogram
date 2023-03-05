@@ -1,6 +1,6 @@
 import java.util.*;
 public class Isogram {
-    /**
+    /*
      * An Isogram is a word where no letters are repeated. You may assume that there will only be lowercase
      * letters in the String.
      *
